@@ -19,6 +19,10 @@ a:hover {
     color: #73c9e3;
     text-decoration:none;
 }
+.trans
+{
+	background-color:#fff0 !important;
+}
 h1, h2, h3, h4, h5, h6 {
     font-weight: normal;
 }
