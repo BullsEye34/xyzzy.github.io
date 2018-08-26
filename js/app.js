@@ -78,9 +78,9 @@
         }
 
         if ($(this).scrollTop() > 130) {
-            $('.navbar').addClass('navbar-fixed-top animated fadeInDown');
+            $('.navbar').addClass('navbar-fixed-top trans animated fadeInDown');
         } else {
-            $('.navbar').removeClass('navbar-fixed-top animated fadeInDown');
+            $('.navbar').removeClass('navbar-fixed-top trans animated fadeInDown');
         }
 
         // Get container scroll position
